@@ -1,4 +1,6 @@
 source "https://rubygems.org"
+gem 'faker'
+
 
 ruby "3.1.2"
 
